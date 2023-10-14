@@ -1,1 +1,1 @@
-# django-celery-api-proj
+# adopt-me-api-django-celery
